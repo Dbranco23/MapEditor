@@ -9,7 +9,7 @@
 
 ## Overview
 
-The MapEditor Project is a Java application that demonstrates various Java concepts while utilizing the SimpleGraphicGfx library. This project allows users to interactively move a cursor and paint cells in different colors. It serves as a hands-on exercise for developers looking to apply Java fundamentals in a graphical context.
+The MapEditor is a project developed with Java concepts. This Java application consist in a cursor moving on a grid and painting cells in different available colours (see the commands below). This project allows practicing Java skills with a graphical component using the SimpleGraphicGfx library.
 
 ---
 
@@ -18,8 +18,6 @@ The MapEditor Project is a Java application that demonstrates various Java conce
 - Implements Java concepts such as event handling, composition, I/O streams, among others.
 - Utilizes the SimpleGraphicGfx library for creating graphical user interfaces.
 - Enables users to navigate the canvas, change colors, clear cells and save/load drawings.
-- The cursor's color represents the currently selected paint color.
-- Clicking the color buttons twice resets the color to default.
 
 ---
 
@@ -27,7 +25,6 @@ The MapEditor Project is a Java application that demonstrates various Java conce
 
 - Use arrow keys to move the cursor ➡️ ⬆️ ⬅️ ⬇️
 - Press the space bar to paint cells (the default color is black) ⬛
-- Press 'P' to change the paint color to pink 🟪
 - Press 'B' to change the paint color to blue 🟦
 - Press 'G' to change the paint color to green 🟩
 - Press 'R' to change the paint color to red 🟥
